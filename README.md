@@ -8,5 +8,4 @@ A modern, AI-powered habit tracking app built with **React + Vite**, styled simp
 
 - 🧠 Generate a personalized 7-day healthy habit plan
 - 💬 Get motivational daily messages
-- 📝 Log your habits and track progress (coming soon)
-- ⚡ Fast
+
